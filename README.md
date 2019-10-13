@@ -6,6 +6,9 @@
 ## MaxWell Equation
 - [Maxwell Equation](https://medium.com/discourse/maxwells-equations-7484212839b1)
 
+## Statistics
+- [Gamma Distribution](https://medium.com/@aerinykim/gamma-distribution-intuition-derivation-and-examples-55f407423840)
+
 ## Heat Equation
 - [The heat equation](https://medium.com/cantors-paradise/the-heat-equation-a76d7773a0b5)
 
