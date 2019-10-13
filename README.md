@@ -8,6 +8,7 @@
 
 ## Statistics
 - [Poisson Distribution](https://towardsdatascience.com/poisson-distribution-intuition-and-derivation-1059aeab90d)
+- [Exponetial Distribution](https://towardsdatascience.com/what-is-exponential-distribution-7bdd08590e2a)
 - [Gamma Distribution](https://medium.com/@aerinykim/gamma-distribution-intuition-derivation-and-examples-55f407423840)
 
 ## Heat Equation
