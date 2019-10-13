@@ -3,6 +3,9 @@
 ## Calculus
 - [Fractional calculus](https://medium.com/@notaredpanda/fractional-calculus-48192f4e9c9f)
 
+## MaxWell Equation
+- [Maxwell Equation](https://medium.com/discourse/maxwells-equations-7484212839b1)
+
 ## Heat Equation
 - [The heat equation](https://medium.com/cantors-paradise/the-heat-equation-a76d7773a0b5)
 
