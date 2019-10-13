@@ -7,6 +7,7 @@
 - [Maxwell Equation](https://medium.com/discourse/maxwells-equations-7484212839b1)
 
 ## Statistics
+- [Poisson Distribution](https://towardsdatascience.com/poisson-distribution-intuition-and-derivation-1059aeab90d)
 - [Gamma Distribution](https://medium.com/@aerinykim/gamma-distribution-intuition-derivation-and-examples-55f407423840)
 
 ## Heat Equation
